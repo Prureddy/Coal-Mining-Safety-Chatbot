@@ -1,0 +1,9 @@
+streamlit
+streamlit_chat
+langchain
+sentence_transformers
+pinecone-client
+openai
+json
+
+
