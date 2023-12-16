@@ -1,8 +1,7 @@
+streamlit_option_menu==0.3.2
 streamlit
 streamlit_chat
 langchain
 sentence_transformers
 pinecone-client
-openai
-
-
+openai==0.28
