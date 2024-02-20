@@ -14,7 +14,6 @@
 
     import json
 
-
     st.header("KhaanVaaniii")
 
     # Your existing code for initializing variables and Streamlit setup...
